@@ -9,6 +9,12 @@ Asegúrate de tener instalado **Python 3.x** en tu sistema antes de comenzar.
 1. Clona este repositorio en tu máquina local:
    ```bash
    git clone [https://github.com/herniii09/ScanPorts.git](https://github.com/herniii09/ScanPorts.git)
-
-   
+2. Entra al repositorio:
+     ```bash
+ 
    cd ScanPorts
+
+3. Ejecuta el script:
+4. ````bash
+   sh ScanPorts.sh
+   
